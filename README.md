@@ -1,2 +1,2 @@
 # jmeter-setup
-jmeter主从集群
+jmeter主从集群设置
